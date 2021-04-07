@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robinnath
+- 👋 Hi, I’m @Robin Chandra Nath
 - 👀 I’m interested in Graphich Design.
 - 🌱 I’m currently learning Matlab/Pythob/Data Science
 - 💞️ I’m looking to collaborate on lifeline.
